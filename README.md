@@ -7,8 +7,8 @@
 <img width="1306" height="745" alt="image" src="https://github.com/user-attachments/assets/a868d01c-78a3-481e-9649-3b19f35b9251" />
 
 
-🎯 Business Problem & Solution Framing
-🏢 Business Context
+<b>Business Problem & Solution Framing</b></br>
+<b>Business Context</b>
 
 Modern software engineering teams face increasing complexity:
 
@@ -44,7 +44,7 @@ AI usage
 
 Stress and cognitive load
 
-*Core Business Problem
+<b>Core Business Problem</b>
 
 How can engineering leadership:
 
